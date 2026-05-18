@@ -51,7 +51,7 @@ REPORT_URLS = [
         "group i",
         "<name>",
         # Report Release URL:
-        "https://github.com/<gh_id>/<proj_id>/archive/refs/tags/<version_tag>.zip",
+        "https://github.com/stegish/I-Terroni-DevOps/archive/refs/tags/final.zip",
     ],
     [
         "group j",
