@@ -49,7 +49,7 @@ REPORT_URLS = [
     ],
     [
         "group i",
-        "<name>",
+        "I Terroni DevOps",
         # Report Release URL:
         "https://github.com/stegish/I-Terroni-DevOps/archive/refs/tags/final.zip",
     ],
